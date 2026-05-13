@@ -18,3 +18,4 @@ An open source blog template build with Astro and Bulma 🚀
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # clarify the control flow
+# handle the edge case from the last release
